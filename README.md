@@ -5,5 +5,6 @@ Apis for Bombay Stock Exchange. I update data once every month. Use if to do ana
 
 ## Date Utils (bsedates)
 
-#LICENSE
-GNU Public LICENSE.
+# LICENSE
+
+[GNU Public LICENSE](https://github.com/knrajago/bseapi/blob/master/LICENSE)
